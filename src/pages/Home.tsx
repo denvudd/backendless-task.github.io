@@ -1,6 +1,6 @@
 import React from "react";
 
-const HomePage: React.FC<HomePageProps> = () => {
+const HomePage: React.FC = () => {
   return (
     <div className="mt-10 mb-10">
       <h1 className="font-semibold text-center text-3xl mb-6 animate-[fadeInDown_.5s_ease-in-out_.10s_forwards]">
@@ -14,9 +14,9 @@ const HomePage: React.FC<HomePageProps> = () => {
           <span className="underline underline-offset-4">speed</span>!
         </h2>
         <img
-          src="https://i.ibb.co/2NmJ1Tn/chart-landing.png"
+          src="https://i.ibb.co/X8NHrq2/chart-landing.png"
           alt="Landing screen"
-          className="w-full block animate-[fadeInDown_.5s_ease-in-out_.10s_forwards] border rounded-md"
+          className="block animate-[fadeInDown_.5s_ease-in-out_.10s_forwards] border rounded-md"
         />
       </div>
     </div>
