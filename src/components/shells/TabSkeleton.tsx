@@ -8,11 +8,11 @@ const TabSkeleton: React.FC = () => {
         {Array(12)
           .fill(null)
           .map((_, i) => (
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-4" key={i}>
               <Skeleton className="h-12 w-12 rounded-full" />
               <div className="space-y-2">
-                <Skeleton key={i} className="h-4 w-[250px]" />
-                <Skeleton key={i} className="h-4 w-[250px]" />
+                <Skeleton className="h-4 w-[250px]" />
+                <Skeleton className="h-4 w-[250px]" />
               </div>
             </div>
           ))}
