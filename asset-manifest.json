@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/backendless-task.github.io/static/css/main.a88e2f67.css",
-    "main.js": "/backendless-task.github.io/static/js/main.9f51fdbb.js",
+    "main.js": "/backendless-task.github.io/static/js/main.f2b84c8e.js",
     "NotFoundPage.js": "/backendless-task.github.io/static/js/NotFoundPage.628cd519.chunk.js",
     "static/js/159.625fdf9d.chunk.js": "/backendless-task.github.io/static/js/159.625fdf9d.chunk.js",
     "static/js/100.514b092d.chunk.js": "/backendless-task.github.io/static/js/100.514b092d.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/logo.svg": "/backendless-task.github.io/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/backendless-task.github.io/index.html",
     "main.a88e2f67.css.map": "/backendless-task.github.io/static/css/main.a88e2f67.css.map",
-    "main.9f51fdbb.js.map": "/backendless-task.github.io/static/js/main.9f51fdbb.js.map",
+    "main.f2b84c8e.js.map": "/backendless-task.github.io/static/js/main.f2b84c8e.js.map",
     "NotFoundPage.628cd519.chunk.js.map": "/backendless-task.github.io/static/js/NotFoundPage.628cd519.chunk.js.map",
     "159.625fdf9d.chunk.js.map": "/backendless-task.github.io/static/js/159.625fdf9d.chunk.js.map",
     "629.f5ac5423.chunk.js.map": "/backendless-task.github.io/static/js/629.f5ac5423.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.a88e2f67.css",
-    "static/js/main.9f51fdbb.js"
+    "static/js/main.f2b84c8e.js"
   ]
 }
